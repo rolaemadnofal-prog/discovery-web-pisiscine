@@ -1,0 +1,47 @@
+dev_workspace:
+total 4
+drwxr-xr-x  6 rnofal _amman   63 Oct  1 08:38 .
+drwx------ 16 rnofal _amman 4096 Oct  1 08:38 ..
+drwxr-xr-x  2 rnofal _amman    6 Sep 30 13:58 archives
+drwxr-xr-x  2 rnofal _amman   32 Oct  1 08:41 ex00
+drwxr-xr-x  3 rnofal _amman   17 Sep 30 13:59 projects
+drwxr-xr-x  2 rnofal _amman    6 Sep 30 13:58 tools
+
+dev_workspace/archives:
+total 0
+drwxr-xr-x 2 rnofal _amman  6 Sep 30 13:58 .
+drwxr-xr-x 6 rnofal _amman 63 Oct  1 08:38 ..
+
+dev_workspace/ex00:
+total 0
+drwxr-xr-x 2 rnofal _amman 32 Oct  1 08:41 .
+drwxr-xr-x 6 rnofal _amman 63 Oct  1 08:38 ..
+-rw-r--r-- 1 rnofal _amman  0 Oct  1 08:44 tree_structure.txt
+
+dev_workspace/projects:
+total 0
+drwxr-xr-x 3 rnofal _amman 17 Sep 30 13:59 .
+drwxr-xr-x 6 rnofal _amman 63 Oct  1 08:38 ..
+drwxr-xr-x 4 rnofal _amman 37 Sep 30 14:00 web
+
+dev_workspace/projects/web:
+total 0
+drwxr-xr-x 4 rnofal _amman 37 Sep 30 14:00 .
+drwxr-xr-x 3 rnofal _amman 17 Sep 30 13:59 ..
+drwxr-xr-x 2 rnofal _amman  6 Sep 30 14:00 backend
+drwxr-xr-x 2 rnofal _amman  6 Sep 30 13:59 frontend
+
+dev_workspace/projects/web/backend:
+total 0
+drwxr-xr-x 2 rnofal _amman  6 Sep 30 14:00 .
+drwxr-xr-x 4 rnofal _amman 37 Sep 30 14:00 ..
+
+dev_workspace/projects/web/frontend:
+total 0
+drwxr-xr-x 2 rnofal _amman  6 Sep 30 13:59 .
+drwxr-xr-x 4 rnofal _amman 37 Sep 30 14:00 ..
+
+dev_workspace/tools:
+total 0
+drwxr-xr-x 2 rnofal _amman  6 Sep 30 13:58 .
+drwxr-xr-x 6 rnofal _amman 63 Oct  1 08:38 ..

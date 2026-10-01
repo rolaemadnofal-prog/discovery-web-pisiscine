@@ -1,0 +1,6 @@
+## Git Workflow
+
+1. Edit the project files.
+2. Stage the changes using `git add`.
+3. Create a commit using `git commit`.
+4. Push the changes to the remote repository using `git push`.
